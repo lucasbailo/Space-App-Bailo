@@ -46,13 +46,13 @@ const ModalZoom = ({ foto, aoFechar, aoAlternarFavorito }) => {
 - Styled Components;
 - JavaScript.
 
-## Test the project yourself: [Teste the project here!!!](#)
+## Test the project yourself: [Teste the project here!!!](https://space-app-bailo.vercel.app/)
 
 ### You can:
 
 - Fiter images by type;
 - Zoom an image;
-- Like an image;
+- Like an image.
 
 ## Author
 
